@@ -75,7 +75,7 @@ education:
   - area: BSc Computer Science and Technology
     institution: BNU-HKBU United International College
     date_start: 2018-09-01
-    date_end: 2022-5-31
+    date_end: 2022-05-31
     summary: |
       GPA: 3.53/4.0
       
