@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Lei Xia (夏磊)
+title: Lei Xia
 
 # Name pronunciation (optional)
-name_pronunciation: Lei Xia
+name_pronunciation: Lay Shyah
 
 # Full name (for SEO)
-# first_name: Lei
-# last_name: Xia
+first_name: Lei
+last_name: Xia
 
 # Status emoji
 status:
@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Postgraduate Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: The University of Hong Kong
+    # url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Lei Xia is a postgraduate student at the University of Hong Kong and is currently interning at Tencent AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. 
