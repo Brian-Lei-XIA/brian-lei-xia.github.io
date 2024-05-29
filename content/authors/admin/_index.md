@@ -64,7 +64,7 @@ education:
   - area: MSc Computer Science
     institution: The University of Hong Kong
     date_start: 2022-09-01
-    date_end: 2024-7-31
+    date_end: 2024-07-31
     summary: |
       GPA: 3.83/4.3
 
