@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 夏磊
+title: Lei Xia (夏磊)
 
 # Name pronunciation (optional)
 name_pronunciation: Lei Xia
 
 # Full name (for SEO)
-first_name: Lei
-last_name: Xia
+# first_name: Lei
+# last_name: Xia
 
 # Status emoji
 status:
