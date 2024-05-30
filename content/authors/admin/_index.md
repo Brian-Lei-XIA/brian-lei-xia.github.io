@@ -40,7 +40,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/Brian-Lei-XIA
   - icon: brands/linkedin
-    url: www.linkedin.com/in/brian-lei-xia
+    url: https://www.linkedin.com/in/brian-lei-xia/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
