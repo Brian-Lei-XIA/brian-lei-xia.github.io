@@ -31,16 +31,16 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:brianleixia@connect.hku.hk'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://x.com/brianleixia
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/Brian-Lei-XIA
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: www.linkedin.com/in/brian-lei-xia
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
@@ -48,7 +48,7 @@ profiles:
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
+  - Large Language Model
   - Information Retrieval
 
 education:
@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Lei Xia is a postgraduate student at the University of Hong Kong and is currently interning at Tencent AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. 
+Lei Xia (夏磊) is a postgraduate student at the University of Hong Kong and is currently interning at Tencent AI Lab. His research interests include  Artiffictai Intelligence, Foundation Models. 
